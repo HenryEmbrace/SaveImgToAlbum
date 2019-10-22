@@ -1,0 +1,25 @@
+{
+  "name": "SaveImgToAlbum",
+  "version": "1.0.0",
+  "description": "ios plugin for ionic",
+  "cordova": {
+    "id": "cordova-plugin-SaveImgToAlbum",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryEmbrace/SaveImgToAlbum.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "ZlHy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryEmbrace/SaveImgToAlbum/issues"
+  },
+  "homepage": "https://github.com/HenryEmbrace/SaveImgToAlbum#readme"
+}
